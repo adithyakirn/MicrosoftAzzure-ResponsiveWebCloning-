@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'styled-bold-with-line-spacing';
+    src: url('/Assets/styled-bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'styled-bold-without-line-spacing';
+    src: url('/Assets/Styled-bold-without-line-space.woff2') format('woff2') ;
+}
+@font-face {
+    font-family: 'normal';
+    src: url('/Assets/normal-font.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'normal-bold';
+    src: url('Assets/normal-font-bold.woff2')format('woff2');
+}
+@font-face {
+    font-family: 'styled-bold-with-line-spacing-woff2';
+    src: url('Assets/styled-bold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'icons';
+    src: url('/Assets/icons-font.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'icon-2';
+    src: url('/Assets/icons-2.woff') format('woff');
+}
+@font-face {
+    font-family: 'original';
+    src: url('/Assets/SegoeUIVF.ttf');
+}
