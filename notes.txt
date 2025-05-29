@@ -1,0 +1,104 @@
+     <div class="row section-template-container">
+                    <div class="col">
+                        <div class="scrolling-card-container">
+                            <div class="scrolling-cards layout d-flex">
+                                <div class="scroller-slider">
+                                    <div class="row section-master-slot margin-top_27">
+                    <div class="card-col">
+                        <div class="three-up-cards layout">
+                            <div class="three-up-cards-card layout--col">
+                                    <div class="pill-bar overflow-x-bar">
+                                <div class="col padding-left_0">
+                                    <div class="tab-overflow">
+                                        <div class="tab-window" style="width: 695px;">
+                                            <div class="tab-group d-flex">
+                                                <div class="card">
+                                                    <div class="media d-flex" > 
+                                                        <img style="aspect-ratio: unset; height: 266.33px; object-fit: cover;" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/351994-Desktop-CustomerStories-HP-656x522?resMode=sharp2&amp;op_usm=1.5,0.65,15,0&amp;wid=664&amp;hei=547&amp;qlt=100&amp;fmt=png-alpha&amp;fit=constrain" class=" " alt="A woman with a ponytail sits at a table in a modern office space, working on an HP laptop" loading="lazy" data-oc="ocb074" id="image-ocb074">
+                                                    </div>
+                                                    <div class="card-content d-flex fd-c">
+                                                        <div class="d-flex al-fs fd-c ta-l gap_75 card-texts-container">
+                                                            <div class="azure-innovation-header-image d-flex fd-r al-fs ta-l gap_75">
+                                                                <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/351994-CustomerStories-Logo-HP-135x58?resMode=sharp2&amp;op_usm=1.5,0.65,15,0&amp;wid=174&amp;hei=74&amp;qlt=100&amp;fmt=png-alpha&amp;fit=constrain" class=" " alt="HP logo" width="174" height="74" loading="lazy" data-oc="oce7bd" id="image-oce7bd">
+                                                            </div>
+                                                            <div class="azure-innovation-header d-flex fd-r al-fs ta-l gap_75" style="margin-bottom: 24px;">
+                                                                <h3 class="card-header customer-header">HP incorporated GitHub Copilot into its workflow to help developers collaborate more easily and work more productively. </h3>
+                                                            </div>
+                                                            <div class="customer-footer-container d-flex fd-c">
+                                                                <div class="azure-innovation-header d-flex fd-c al-fs ta-l gap_75">
+                                                                    <h3 class="card-header" style="font-size: 16px;">Products</h3>
+                                                                    <div class="products-container d-flex fd-r gap_5">
+                                                                        <ul class="products-ul gap_75">
+                                                                            <li>
+                                                                                <div class="products-img-txt-separator gap_5 d-flex al-c">
+                                                                                    <div class="products-img-container">
+                                                                                        <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/351994-Product-Logo-GitHubCopilot-16x16?resMode=sharp2&amp;op_usm=1.5,0.65,15,0&amp;qlt=85" class=" " alt="" loading="lazy" data-oc="oc3e36" id="image-oc3e36">
+                                                                                    </div>
+                                                                                    <div class="products-text-container">
+                                                                                        <a href="#" class="products-txt" target="_blank" tabindex="0">GitHub Copilot</a>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </li>
+                                                                            <li>
+                                                                                <div class="products-img-txt-separator gap_5 d-flex al-c">
+                                                                                    <div class="products-img-container">
+                                                                                        <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/351994-Product-Logo-AzureDevOps-16x16?resMode=sharp2&amp;op_usm=1.5,0.65,15,0&amp;qlt=85" class=" " alt="" loading="lazy" data-oc="oc97ed" id="image-oc97ed">
+                                                                                    </div>
+                                                                                    <div class="products-text-container">
+                                                                                        <a href="#" class="products-txt" target="_blank" tabindex="0">Azure DevOps</a>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </li>
+                                                                            <li>
+                                                                                <div class="products-img-txt-separator gap_5 d-flex al-c">
+                                                                                    <div class="products-img-container">
+                                                                                        <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Hero-icon-337178?resMode=sharp2&amp;op_usm=1.5,0.65,15,0&amp;wid=16&amp;hei=16&amp;qlt=85&amp;fmt=png-alpha&amp;fit=constrain" class=" " alt="" width="16" height="16" loading="lazy" data-oc="oc7159" id="image-oc7159">
+                                                                                    </div>
+                                                                                    <div class="products-text-container">
+                                                                                        <a href="#" class="products-txt" target="_blank" tabindex="0">Visual Studio</a>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </li>
+                                                                            <li>
+                                                                                <div class="products-img-txt-separator gap_5 d-flex al-c">
+                                                                                    <div class="products-img-container">
+                                                                                        <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Customer-GM-Product-GitHub?resMode=sharp2&amp;op_usm=1.5,0.65,15,0&amp;qlt=85" class=" " alt="" loading="lazy" data-oc="ocd289" id="image-ocd289">
+                                                                                    </div>
+                                                                                    <div class="products-text-container">
+                                                                                        <a href="#" class="products-txt" target="_blank" tabindex="0">Github Enterprise</a>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </li>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                                <button class="ai-foundry-button-container customer-button"><span class="foundry-button-text"  style="top: -1px;">Case study</span></button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                <div class="gap-container gap_105 d-flex fd-c">
+                                <div class="arrow-container d-flex fd-r" style=" margin: 10px 0 0 0; padding: 0;">
+                                    <div class="left-arrow big"></div>
+                                    <div class="left-arrow right-arrow big"></div>
+                                </div>
+                                <a href="#" class="link d-iflex">
+                                    <span class="btn card-button-arrow d-flex">
+                                        <span class="d-flex al-c"></span>
+                                    </span>
+                                    <span class="link-text" style="margin-bottom: 2px;">View all stories</span>
+                                </a>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </div>                 
+                        
